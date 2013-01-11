@@ -38,7 +38,7 @@ command line:
 
     $ cd ../../../
     $ mvn -X compile
-    $ mvn -X exec:java -Dexec.mainClass="dfp.axis.v201203.GetAllNetworks"
+    $ mvn -X exec:java -Dexec.mainClass="dfp.axis.v201208.GetAllNetworks"
 
 You must have Maven recompile every time you modify the source code or resources
 in order for your changes to take effect.
